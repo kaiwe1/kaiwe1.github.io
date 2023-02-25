@@ -1,6 +1,7 @@
 # kaiwe1的博客 
 [![Unity](https://img.shields.io/badge/Unity-57b9d3.svg?style=for-the-badge&logo=unity)](https://unity3d.com)
 [![React](https://img.shields.io/badge/react%20-%2320232a.svg?style=for-the-badge&&logo=react&logoColor=%2361DAFB)](https://reactjs.org/)
+[![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)](https://threejs.org/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/matthias_code.svg?style=social&label=Follow)](https://twitter.com/kwii_cc)
 
 ## 2023
