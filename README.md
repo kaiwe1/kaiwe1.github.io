@@ -5,4 +5,8 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/matthias_code.svg?style=social&label=Follow)](https://twitter.com/kwii_cc)
 
 ## 2023
+### Web
 - [深入浅出现代Web编程](https://fullstackopen.com/zh/)
+
+### AI
+- [RNN模型与NLP应用](https://www.youtube.com/watch?v=NWcShtqr8kc&list=PLvOO0btloRnuTUGN4XqO85eKPeFSZsEqK)
