@@ -10,4 +10,4 @@
 - [深入浅出现代Web编程](https://fullstackopen.com/zh/)
 
 ### AI
-- [RNN模型与NLP应用](https://www.youtube.com/watch?v=NWcShtqr8kc&list=PLvOO0btloRnuTUGN4XqO85eKPeFSZsEqK)
+- [深度学习](https://github.com/wangshusen/DeepLearning)
