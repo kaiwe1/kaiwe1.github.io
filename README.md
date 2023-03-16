@@ -10,4 +10,5 @@
 - [深入浅出现代Web编程](https://fullstackopen.com/zh/)
 
 ### AI
-- [深度学习](https://github.com/wangshusen/DeepLearning)
+- [Deep Learning](https://github.com/wangshusen/DeepLearning)
+- [Deep Learning For Audio](https://github.com/musikalkemist/DeepLearningForAudioWithPython)
