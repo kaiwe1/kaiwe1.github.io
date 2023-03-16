@@ -8,6 +8,6 @@
 - [深入浅出现代Web编程](https://fullstackopen.com/zh/)
 
 ### AI
-- [Deep Learning](https://github.com/wangshusen/DeepLearning)
-- [Dive into Deep Learning](https://zh.d2l.ai/)
-- [Deep Learning For Audio](https://github.com/musikalkemist/DeepLearningForAudioWithPython)
+- [深度学习](https://github.com/wangshusen/DeepLearning)
+- [动手学深度学习](https://zh.d2l.ai/)
+- [Deep Learning for Audio](https://github.com/musikalkemist/DeepLearningForAudioWithPython)
