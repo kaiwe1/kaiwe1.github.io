@@ -9,4 +9,5 @@
 
 ### AI
 - [Deep Learning](https://github.com/wangshusen/DeepLearning)
+- [Dive into Deep Learning](https://zh.d2l.ai/)
 - [Deep Learning For Audio](https://github.com/musikalkemist/DeepLearningForAudioWithPython)
