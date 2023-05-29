@@ -7,3 +7,6 @@
 - [动手学深度学习](https://zh.d2l.ai/)
 - [音频深度学习](https://github.com/musikalkemist/DeepLearningForAudioWithPython)  
 - [TensorFlow官方指南](https://www.tensorflow.org/guide?hl=zh-cn)
+
+### Version Control
+- [Pro Git](https://git-scm.com/book/en/v2)
